@@ -1,0 +1,37 @@
+<!-- Animated using SVGANIMA - https://svganima.com -->
+<svg viewBox="159.9916 38.4717 180.0174 423.0569" width="180.017" height="423.057" xmlns="http://www.w3.org/2000/svg" id="svg4120" preserveAspectRatio="xMidYMid">
+  <defs id="defs2851">
+    <linearGradient gradientUnits="userSpaceOnUse" x1="81.745" y1="21.499" x2="81.745" y2="385.5" id="gradient-0" spreadMethod="reflect" gradientTransform="matrix(-0.007517, 0.999972, -0.236485, -0.001778, 253.307243, 204.722458)">
+      <stop offset="0" style="stop-color: rgb(239, 229, 229);" id="stop2202"></stop>
+      <stop offset="1" style="stop-color: rgb(55.84% 55.84% 55.84%)" id="stop7911"></stop>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="250" y1="351.873" x2="250" y2="385.965" id="gradient-4" spreadMethod="reflect" gradientTransform="matrix(1, 0, 0, 1, 0.000119, -3.363459)">
+      <stop offset="0" style="stop-color: rgb(255, 255, 255);" id="stop9278"></stop>
+      <stop offset="1" style="stop-color: rgb(185, 182, 182);" id="stop9819"></stop>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="81.746" y1="16.503" x2="81.746" y2="292.721" id="gradient-3" gradientTransform="matrix(-0.003056, 0.999996, -0.011069, -0.000034, 250.445396, 184.23156)" spreadMethod="reflect">
+      <stop offset="0" style="stop-color: rgb(224, 224, 224);" id="stop5605"></stop>
+      <stop offset="1" style="stop-color: rgb(0% 33.889% 52.22%)" id="stop8926"></stop>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="81.633" y1="-38.557" x2="81.633" y2="20.632" id="gradient-1" gradientTransform="matrix(-0.031788, 0.999495, -0.313086, -0.009957, 238.617531, -10.723679)" spreadMethod="reflect">
+      <stop offset="0" style="stop-color: rgb(236, 226, 239);" id="stop8691"></stop>
+      <stop offset="1" style="stop-color: rgb(49.936% 35.043% 54.868%)" id="stop3753"></stop>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="81.265" y1="16.277" x2="81.265" y2="21.912" id="gradient-2" gradientTransform="matrix(-0.008116, 1.316732, -2.850904, -0.027213, 296.992834, -10.571901)" spreadMethod="reflect">
+      <stop offset="0" style="stop-color: rgb(98.431% 98.431% 98.431%)" id="stop8044"></stop>
+      <stop offset="1" style="stop-color: rgb(55.84% 55.84% 55.84%)" id="stop9445"></stop>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="81.265" y1="16.277" x2="81.265" y2="21.912" id="gradient-6" gradientTransform="matrix(1.058208, 0, 0, 1.31677, 164.004507, 71.03376)">
+      <stop offset="0" style="stop-color: rgb(0% 0% 0%)" id="stop6037"></stop>
+      <stop offset="1" style="stop-color: rgb(0% 0% 0%)" id="stop6378"></stop>
+    </linearGradient>
+  </defs>
+  <path style="stroke-width: 4px; fill: url('#gradient-0'); paint-order: stroke markers;" d=" M 160.017 157.947 L 160.009 399.223 C 160.611 481.553 340.646 483.04 340.004 399.217 L 340.009 157.935 C 337.331 76.261 157.54 78.529 160.017 157.947 Z " id="path589"></path>
+  <path style="fill: url('#gradient-4'); stroke-width: 3px; stroke: rgb(88, 86, 86); transform-origin: 250px 365.555px;" d="M 196.491 382.601 L 245.723 365.261 C 245.538 363.508 246.286 361.164 249.495 360.992 C 253.849 360.759 254.294 364.318 254.446 364.982 L 300.024 348.509 C 300.024 348.509 323.586 380.829 322.739 380.963 L 254.399 364.937 C 254.41 365.793 253.546 369.546 250.156 369.367 C 245.927 369.144 245.793 365.537 245.736 365.254 L 177.238 355.162 L 196.491 382.601 Z" transform="matrix(0.999391019344, 0.034897997975, -0.034897997975, 0.999391019344, -5.98638e-7, 0.000456588418)" id="path5554"><animateTransform attributeName="transform" attributeType="auto" type="scale" values="1 1;0 1.33;1 1" calcMode="spline" keyTimes="0;0.49833333333333335;1" keySplines="0 0 1 1;0 0 1 1" dur="0.6s" begin="0s" repeatCount="indefinite" additive="sum" accumulate="none" fill="freeze" id="animateTransform9838"></animateTransform></path>
+  <rect x="246.909" y="92.532" width="6.184" height="276.218" style="fill: url('#gradient-3');" rx="3.092" ry="3.092" id="rect6462"></rect>
+  <g transform="matrix(1, 0, 0, 1, 0.0014270001556795364, -0.5002869367599487)" id="g3588">
+    <rect x="229.606" y="38.972" width="40.561" height="59.189" style="stroke-width: 2.5px; fill: url('#gradient-1'); stroke: rgb(177, 179, 176);" rx="5.295" ry="5.295" id="rect6045"></rect>
+    <rect x="225.66" y="92.467" width="48.678" height="7.421" style="stroke: url('#gradient-6'); fill: url('#gradient-2'); stroke-width: 0px;" id="rect8213"></rect>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 13.9499px; font-weight: 700; line-height: 22.3199px; white-space: pre; transform-origin: 411.902px 373.808px;" transform="matrix(2.054717, 0, -0.203726, 1.072883, -158.75914, -309.335052)" x="404.614" y="379.936" id="text1213">M</text>
+  </g>
+</svg>
